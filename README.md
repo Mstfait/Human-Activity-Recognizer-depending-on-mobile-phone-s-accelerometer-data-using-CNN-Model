@@ -1,0 +1,1 @@
+# Human-Activity-Recognizer-depending-on-mobile-phone-s-accelerometer-data-using-CNN-Model
